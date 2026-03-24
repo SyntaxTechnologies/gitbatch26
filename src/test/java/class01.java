@@ -4,8 +4,7 @@ public class class01 {
         System.out.println("i am first project");  System.out.println("i am first project");  System.out.println("i am first project");  System.out.println("i am first project");  System.out.println("i am first project");  System.out.println("i am first project");  System.out.println("i am first project");  System.out.println("i am first project");
         System.out.println("i am first project");  System.out.println("i am first project");  System.out.println("i am first project");
 
-        System.out.println("i am first project");  System.out.println("i am first project");  System.out.println("i am first project");
-
+       
 
     }
 }
